@@ -40,6 +40,11 @@ Projektet är baserat på en tidigare uppgift i Objektorienterad Analys och Desi
 /Repositories
 /Data
 
+## 📑 Postman Collection
+
+[👉 Ladda ner här](./Traningsbokningssystem.postman_collection.json)
+
+
 👤 Skapad av
 
 - Ward Beniamin
