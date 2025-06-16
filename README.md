@@ -42,7 +42,7 @@ Projektet är baserat på en tidigare uppgift i Objektorienterad Analys och Desi
 
 ## 📑 Postman Collection
 
-[👉 Ladda ner här](./Traningsbokningssystem.postman_collection.json)
+[[👉 Ladda ner här](./Traningsbokningssystem.postman_collection.json)](https://ward-3966513.postman.co/workspace/Ward-'s-Workspace~98cad081-6663-44c6-8ae4-2f62a8d48271/collection/45943659-ea2437ec-025c-469f-8148-71c98cdf5df0?action=share&creator=45943659)
 
 
 👤 Skapad av
