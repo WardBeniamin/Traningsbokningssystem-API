@@ -45,7 +45,7 @@ Projektet bygger vidare på tidigare uppgifter i Objektorienterad Analys och Des
 
 ## 📑 Postman Collection
 
-📥 https://ward-3966513.postman.co/workspace/Ward-'s-Workspace~98cad081-6663-44c6-8ae4-2f62a8d48271/collection/45943659-ea2437ec-025c-469f-8148-71c98cdf5df0?action=share&creator=45943659
+📥 [https://ward-3966513.postman.co/workspace/Ward-'s-Workspace~98cad081-6663-44c6-8ae4-2f62a8d48271/collection/45943659-ea2437ec-025c-469f-8148-71c98cdf5df0?action=share&creator=45943659](https://github.com/WardBeniamin/Traningsbokningssystem-API/blob/main/Traningsbokningssystem%20API.postman_collection.json)
 
 
 > Den innehåller exempel för:
