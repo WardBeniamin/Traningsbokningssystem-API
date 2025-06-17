@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "ea2437ec-025c-469f-8148-71c98cdf5df0",
+		"name": "Traningsbokningssystem API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45943659",
+		"_collection_link": "https://ward-3966513.postman.co/workspace/Ward-'s-Workspace~98cad081-6663-44c6-8ae4-2f62a8d48271/collection/45943659-ea2437ec-025c-469f-8148-71c98cdf5df0?action=share&source=collection_link&creator=45943659"
+	},
+	"item": [
+		{
+			"name": "Skapa kund",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "uppdatera",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "radera",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
